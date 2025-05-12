@@ -55,3 +55,7 @@
 ###
 
 <img align="left" height="200" src="https://i.postimg.cc/fbTRjPd3/React-Certificate.jpg"  />
+
+###
+
+<img align="left" height="200" src="https://i.postimg.cc/Dwj2LSqZ/Next-JS-certificate.jpg"  />
