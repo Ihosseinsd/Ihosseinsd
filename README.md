@@ -46,7 +46,7 @@
 
 ###
 
-<img align="left" height="200" src="https://i.imghippo.com/files/zLvzy1728119579.jpg"  />
+<img align="left" height="200" src="https://i.postimg.cc/6p1HdKTw/python-certificate.jpg"  />
 
 ###
 
